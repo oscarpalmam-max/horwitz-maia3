@@ -1,0 +1,18 @@
+{
+ "formato": 1,
+ "modelo": "maia3_5m_fp16.onnx",
+ "bytes": 10867453,
+ "sha256": "49a0d9a8bfc5078b3e09aba35da5d72873c97019a99ea8b4a8136f7ae2d191b1",
+ "partes": [
+  {
+   "archivo": "maia3_5m_fp16.parte1.bin",
+   "bytes": 8388608,
+   "sha256": "7a832bb66b0b5a122e1c7eaa76037894a72e06bf3e1d9999fc8852ad533b0622"
+  },
+  {
+   "archivo": "maia3_5m_fp16.parte2.bin",
+   "bytes": 2478845,
+   "sha256": "4c303fb1ce6e5092b14f5074a8217e71ab092021dfd024f5681da040db5d421f"
+  }
+ ]
+}
